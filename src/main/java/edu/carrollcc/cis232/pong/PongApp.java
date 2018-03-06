@@ -1,7 +1,5 @@
 package edu.carrollcc.cis232.pong;
-
 import java.util.Random;
-
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
